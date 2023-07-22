@@ -1,25 +1,19 @@
-<h1 align="center">Hi 👋, I'm Hemanth Dhanamadhavan</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-xsq6sWPCX3qWs7FIemVRKYBpe4cev9yRMbaFfqYoKa2PcRwx_1U6qZyZbw4v3GCMq6M_b0bjSac-7H9saPn2ET2JH3=s1600" alt="" style="height:300px;width:100%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthd077&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthd077" /> </p>
+## 💫 About Me:
+a passionate web developer with a strong love for coding and creating engaging online experiences. I believe in the power of technology to transform the way we interact with the world and I'm thrilled to be a part of the ever-evolving web development community.One thing that excites me the most about coding is the constant opportunity to learn. Technology is evolving at a rapid pace, and I'm committed to staying up-to-date with the latest trends and best practices in the industry. I'm always seeking ways to improve my craft and deliver better solutions.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanthd077" alt="hemanthd077" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs ,Express js**
 
-- 📫 How to reach me **hemanthmadhavan77@gmail.com**
+## 🌐 Socials:
+<a href="https://www.linkedin.com/in/hemanth-dhanamadhavan-39a2a31b5">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a><br><br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hemanth dhanamadhavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth dhanamadhavan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hemanthd77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hemanthd77" height="30" width="40" /></a>
-</p>
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)<br><br>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hemanthd077&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hemanthd077&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthd077&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanthd077&show_icons=true&locale=en&layout=compact" alt="hemanthd077" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanthd077&show_icons=true&locale=en" alt="hemanthd077" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthd077&" alt="hemanthd077" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=hemanthd077&icon=4&color=6)](https://visitcount.itsvg.in)<br><br>
