@@ -1,7 +1,9 @@
 <img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-xsq6sWPCX3qWs7FIemVRKYBpe4cev9yRMbaFfqYoKa2PcRwx_1U6qZyZbw4v3GCMq6M_b0bjSac-7H9saPn2ET2JH3=s1600" alt="" style="height:300px;width:100%">
 
-## 💫 About Me:
-a passionate web developer with a strong love for coding and creating engaging online experiences. I believe in the power of technology to transform the way we interact with the world and I'm thrilled to be a part of the ever-evolving web development community.One thing that excites me the most about coding is the constant opportunity to learn. Technology is evolving at a rapid pace, and I'm committed to staying up-to-date with the latest trends and best practices in the industry. I'm always seeking ways to improve my craft and deliver better solutions.
+<div style="display: flex;flex-direction:column;align-items:center">
+  <h3>💫 About Me:</h3>
+  <p>a passionate web developer with a strong love for coding and creating engaging online experiences. I believe in the power of technology to transform the way we interact with the world and I'm thrilled to be a part of the ever-evolving web development community.One thing that excites me the most about coding is the constant opportunity to learn. Technology is evolving at a rapid pace, and I'm committed to staying up-to-date with the latest trends and best practices in the industry. I'm always seeking ways to improve my craft and deliver better solutions.</p>
+ </div>
 
 
 
