@@ -1,5 +1,5 @@
 <h3 align="center">Hi👋,I'm</h3><br>
-<img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-xjyMob9U2_SfRTH4pxYeZNV5kXwuZFnZDZFOOs2BvRuR-9F-UPduKEct2voY-IjIbMU2Ib7cQIA97Kz6s-rhHx-ROl=s1600" alt="" style="height:300px;width:100%">
+<img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-zM5OiPgp7ktPdnJD_o92GsVtxhxDAe3prL0BHJkfK9_8RVuHyq7kwdP49MliMdOU7IY2GfLFizEFSFJelC6yuMIVxL=s1600" width="100%" height="300" allow="autoplay"></img>
 
 <h3 align="center">💫 About Me:</h3>
 <p align="center">a passionate web developer with a strong love for coding and creating engaging online experiences. I believe in the power of technology to transform the way we interact with the world and I'm thrilled to be a part of the ever-evolving web development community.One thing that excites me the most about coding is the constant opportunity to learn. Technology is evolving at a rapid pace, and I'm committed to staying up-to-date with the latest trends and best practices in the industry. I'm always seeking ways to improve my craft and deliver better solutions.</p><br>
@@ -8,9 +8,9 @@
 
 <h3 align="center">🌐 Socials:</h3>
 <div align="center">
-  <a  href="https://www.linkedin.com/in/hemanth-dhanamadhavan-39a2a31b5">
-    
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a> <a href="mailto:hemanthmadhavan77@gmail.com">  ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)</a> <a href="https://leetcode.com/HemanthD77/">![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black)</a>
+<a href="https://www.linkedin.com/in/hemanth-dhanamadhavan-39a2a31b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="30" /></a>
+<a href="https://leetcode.com/HemanthD77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="30" /></a>
+  <a href="mailto:hemanthmadhavan77@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" alt="" height="40" width="30" /></a>
 </div><br>
 
 <h3 align="center"> 💻 Technology Stack:<h3>
