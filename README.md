@@ -8,7 +8,7 @@
 
 <h3 align="center">🌐 Socials:</h3>
 <div align="center">
-<a href="https://www.linkedin.com/in/hemanth-dhanamadhavan-39a2a31b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/hemanth-dhanamadhavan-39a2a31b5" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" alt="" height="40" width="40" /></a>
 <a href="https://leetcode.com/HemanthD77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="30" /></a>
   <a href="mailto:hemanthmadhavan77@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" alt="" height="40" width="30" /></a>
 </div><br>
