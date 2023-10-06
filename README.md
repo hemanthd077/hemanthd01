@@ -4,19 +4,18 @@
 <h3 align="center">💫 About Me:</h3>
 <p align="center">a passionate web developer with a strong love for coding and creating engaging online experiences. I believe in the power of technology to transform the way we interact with the world and I'm thrilled to be a part of the ever-evolving web development community.One thing that excites me the most about coding is the constant opportunity to learn. Technology is evolving at a rapid pace, and I'm committed to staying up-to-date with the latest trends and best practices in the industry. I'm always seeking ways to improve my craft and deliver better solutions.</p><br>
 
-
-
 <h3 align="center">🌐 Socials:</h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/hemanth-dhanamadhavan-39a2a31b5" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" alt="" height="40" width="40" /></a>
 <a href="https://leetcode.com/HemanthD77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="30" /></a>
-  <a href="mailto:hemanthmadhavan77@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" alt="" height="40" width="30" /></a>
+<a href="mailto:hemanthmadhavan77@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" alt="" height="40" width="30" /></a>   <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="blank" ><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHnuoBILG49vKRO7VNKERfU1t5tuT9QFowe0RpLRXDUS6Qy_Tea-RHUrwX9WHx3glSbTk&usqp=CAU" alt="" height="30" width="30"  style="border-radius:50" /></a>
 </div><br>
 
 <h3 align="center"> 💻 Technology Stack:<h3>
 <div align="center">
   
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  ![Handelbars](https://img.shields.io/badge/Handlebars.js-f0772b?logo=handlebarsdotjs&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) </div><br>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=Adobe%20XD&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=Adobe%20XD&logoColor=%2361DAFB)  ![Handelbars](https://img.shields.io/badge/Handlebars.js-f0772b?logo=handlebarsdotjs&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+ </div><br>
 
 <div align="center">
   <h4>👩‍💻 IDE</h4>
