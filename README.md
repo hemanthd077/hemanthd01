@@ -20,7 +20,7 @@
 <div align="center">
   <h4>👩‍💻 IDE</h4>
   
- ![Vs Code](https://img.shields.io/badge/VSCode-0078D4?&logo=visual%20studio%20code&logoColor=white) ![IntelleiJ idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white)
+ ![Vs Code](https://img.shields.io/badge/VSCode-0078D4?&logo=visual%20studio%20code&logoColor=white) ![IntelleiJ idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/eclipse-000000.svg?logo=Eclipse&logoColor=white)
 </div><br>
 
 <h3 align="center">📊 GitHub Stats:</h3>
